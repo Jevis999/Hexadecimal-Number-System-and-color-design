@@ -1,0 +1,23 @@
+h1 { 
+    color: brown; }
+ * {
+     border:solid ; }
+     .Header{background-color: aqua;
+    display: flex;
+    justify-content:space-between;
+    border-color: brown;
+    }
+    .Sitedescription{background-color: rgba(255, 238, 5, 0.866);}
+    .grid{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+    .Footer{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: flex-end;
+    }
+    body{
+        background-color: #cccccc;
+    }
